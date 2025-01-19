@@ -10,28 +10,22 @@ A modern login page design using the Glassmorphism effect. This project demonstr
 - User-friendly interface
 
 ## Preview
+<center>
+<img src="https://github.com/user-attachments/assets/1f86f371-df15-47ac-92d1-ddf8d6ca4b81" alt="Example Image" style="width: 450px; height: 200px;">
+</center>
 
-![Preview Image](path/to/your/preview/image.png)
+
 
 ## Demo
 
-You can check out the live demo [here](URL to your live demo).
+You can check out the live demo [https://glassmorphism-tawny-sigma.vercel.app/].
 
 ## Technologies Used
 
 - HTML5
 - CSS3 (with Glassmorphism effect)
-- JavaScript
 
-## Getting Started
 
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (for package management)
 
 ### Installation
 
