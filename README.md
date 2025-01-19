@@ -1,6 +1,6 @@
 # Glassmorphism Login Page
 
-A modern login page design using the Glassmorphism effect. This project demonstrates how to create a visually appealing login interface with a frosted glass look using HTML, CSS, and JavaScript.
+A modern login page design using the Glassmorphism effect. This project demonstrates how to create a visually appealing login interface with a frosted glass look using HTML and CSS.
 
 ## Features
 
