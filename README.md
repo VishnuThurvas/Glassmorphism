@@ -8,6 +8,7 @@ A modern login page design using the Glassmorphism effect. This project demonstr
 - Responsive layout
 - Smooth animations
 - User-friendly interface
+- Gradient Colors 
 
 ## Preview
 <center>
